@@ -22,7 +22,7 @@ TRUE โปร LINE
 //ไม่ต้องยุ่งด้านล่าง
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
-"url": "",
+"url": "https://github.com/bossvpn/bossvpn/raw/master/update.json",
  "releaseNotes": [
  "-Demo"
   ]
