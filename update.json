@@ -2,7 +2,7 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"1.9",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"ใส่ลิงก์ที่เราอัพไฟล์ไว้ตรงนี้" ,
+"Url":"https://github.com/bossvpn/bossvpn/raw/master/update.json" ,
 "Changelog":"
 พบไฟล์ใหม่ (28/05/2020)
 รองรับ ซิม TRUE & DTAC
@@ -22,7 +22,7 @@ TRUE โปร LINE
 //ไม่ต้องยุ่งด้านล่าง
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
-"url": "https://github.com/bossvpn/bossvpn/raw/master/update.json",
+"url": "",
  "releaseNotes": [
  "-Demo"
   ]
